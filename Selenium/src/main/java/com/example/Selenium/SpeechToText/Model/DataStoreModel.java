@@ -13,8 +13,8 @@ import java.util.concurrent.CountDownLatch;
 
 public class DataStoreModel {
     private EnumSet<EnumController> statusEnumSet = EnumSet.noneOf(EnumController.class);
-    public String userName = "nam03test";
-    public String userPassWord = "IUtrangmaimai02";
+    public String userName = "nat221";
+    public String userPassWord = "matKhau213";
     public String notification = null;
     public CountDownLatch countDownLatch;
     private String countDownLatchName;
